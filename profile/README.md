@@ -1,9 +1,9 @@
 <p align="center"><a href="#" target="_blank"><img src="https://is3.cloudhost.id/mmj/artwork/logo.png" width="400"></a></p>
 
-# PT Margo Mitro Joyo
+# PT Margo Mitro Joyo (MMJ)
 
 ## Company Overview
-PT Margo Mitro Joyo is a reputable book manufacturer based in Indonesia. The company is known for its innovative approach to education through its brand **Bupin**, which specializes in producing interactive books. These books come equipped with digital features that significantly enhance the learning experience for students.
+PT Margo Mitro Joyo (MMJ) is a reputable book manufacturer based in Indonesia. The company is known for its innovative approach to education through its brand **Bupin**, which specializes in producing interactive books. These books come equipped with digital features that significantly enhance the learning experience for students.
 
 ## Products
 ### Bupin Interactive Books
